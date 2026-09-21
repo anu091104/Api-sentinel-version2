@@ -11,6 +11,12 @@
 
 ---
 
+## Live Demo
+
+- 🌐 **Dashboard:** [https://api-sentinel-version2.vercel.app/]
+- ⚙️ **API docs:** [https://api-sentinel-backend-pc95.onrender.com/]/docs
+
+
 ## Overview
 
 Production systems depend on APIs staying up and fast — payment gateways, third-party integrations, internal microservices. API Sentinel is a self-hosted monitoring tool that **independently verifies endpoint health on a schedule**, rather than trusting an endpoint's own status page or waiting for a user to report a problem.
@@ -19,8 +25,7 @@ Add any URL, and a background scheduler pings it every 60 seconds, recording res
 
 ## Screenshot
 
-![Dashboard](./docs/dashboard.png)
-*(Replace with your own screenshot after running it — see "Local Development" below.)*
+![Dashboard](./docs/dashboard2.png)
 
 ## How to explain this project in an interview
 
